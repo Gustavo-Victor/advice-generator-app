@@ -12,8 +12,8 @@ Este projeto é uma solução do desafio [Advice generator app](https://www.fron
   - [Tecnologias](#tecnologias)
   - [Fontes](#fontes)
   - [Ferramentas](#ferramentas)
-- [Autor](#-author)
-- [Licença](#-licença)
+- [Autor](#author)
+- [Licença](#licença)
 
 <hr/>
 
