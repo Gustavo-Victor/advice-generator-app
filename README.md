@@ -36,7 +36,7 @@ No projeto, os usuários são capazes de:
 
 ### Links
 
-- [Aplicação no Netlify](https://gustavovictor.me/tip-calculator-app/)
+- [Aplicação no Netlify](https://benevolent-crumble-4b82fd.netlify.app/)
 
 
 ## 🛠Meu processo
