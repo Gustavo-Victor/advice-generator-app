@@ -1,0 +1,48 @@
+@import '../../styles/variables';
+
+.title {
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    color: $neon-green;
+    font-weight: lighter;
+}
+
+.content {
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+.diviser {
+    margin: 0.5rem 0;
+    display: block;
+    width: auto;
+    max-width: 100%;
+}
+
+.diviser.desktop {
+    display: none;
+}
+
+.btn-advise {
+    background-color: $neon-green;
+    padding: 1rem;
+    border-radius: 50%;
+    cursor: pointer;        
+    position: absolute;
+    bottom: -1.7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none; 
+    outline: none;
+
+    &:hover, &:active {
+        box-shadow: 0 0 20px 5px $neon-green;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .content {
+        font-size: 1.6rem;
+    }
+}

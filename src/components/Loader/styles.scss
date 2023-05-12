@@ -1,0 +1,16 @@
+.loader {
+    position: absolute; 
+    top: 45%; 
+    font-size: 3rem;
+    animation: loaderEffect 1s infinite linear;
+}
+
+@keyframes loaderEffect {
+    from {
+        transform: rotate(0);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
