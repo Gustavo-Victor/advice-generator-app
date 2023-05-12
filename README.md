@@ -4,11 +4,11 @@ Este projeto é uma solução do desafio [Advice generator app](https://www.fron
 
 ## Tabela de conteúdos
 
-- [Visão Geral](#-visão-geral)
-  - [O desafio](#o-desafio)
+- [Visão Geral](#visão-geral)
+  - [O desafio](#odesafio)
   - [Screenshots](#screenshots)
   - [Links](#links)
-- [Meu processo](#-meu-processo)
+- [Meu processo](#meu-processo)
   - [Tecnologias](#tecnologias)
   - [Fontes](#fontes)
   - [Ferramentas](#ferramentas)
