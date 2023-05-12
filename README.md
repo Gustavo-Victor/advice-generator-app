@@ -12,6 +12,9 @@ Este projeto é uma solução do desafio [Advice generator app](https://www.fron
   - [Tecnologias](#tecnologias)
   - [Fontes](#fontes)
   - [Ferramentas](#ferramentas)
+- [Como-começar](#como-começar)
+  - [Pré-requisitos](#pré-requisitos)
+  - [Instalação](#instalação)
 - [Autor](#author)
 - [Licença](#licença)
 
@@ -57,6 +60,48 @@ No projeto, os usuários são capazes de:
 ### Ferramentas
 
 - [Visual Studio Code](https://code.visualstudio.com/)
+
+
+## Como começar
+
+Para ver a aplicação em tempo real, clique [neste link](https://benevolent-crumble-4b82fd.netlify.app/). 
+Já, se você quiser fazer a instalação do projeto em sua máquina local e tiver dúvidas de como fazer isso, confira o tutorial a seguir. 
+
+### Pré-requisitos 
+
+Antes de começar, é importante que você tenha o [Node.js](https://nodejs.org/en) instalado na sua máquina para rodar aplicações JavaScript e o [GIT](https://git-scm.com/) para executar os comandos de terminal seguintes.
+Além disso, para entender e conseguir acompanhar o projeto, é recomendado que você tenha conhecimentos básicos de HTMl, CSS, JavaScript e ReactJS.  
+
+### Instalação
+
+1. Faça download do projeto ou clone ele com o comando: 
+
+```bash
+  git clone https://github.com/Gustavo-Victor/advice-generator-app.git
+```
+
+2. Entre na pasta do projeto (antes descompacte se tiver baixado o zip) e abra o terminal. A seguir, comando para entrar na pasta: 
+
+```bash
+  cd advice-generator-app/ 
+```
+
+3. Instale as dependências 
+
+```bash
+  npm install yarn -g 
+```
+
+```bash 
+  yarn 
+```
+
+4. Execute o projeto em ambiente de desenvolvimento
+```bash
+  yarn dev 
+```
+
+5. Abra o projeto no navegador digitando na barra de pesquisa: localhost:5173/ 
 
 
 ## 🦸‍♂️Autor
